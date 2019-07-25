@@ -17,6 +17,7 @@
             <div class="hero-unit">
                 <h1>Aplicacion PHP con CI/CD</h1>
                 <h2>GRACIAS TOTALESSSSS</h2>                 
+                <h2>BOLETIA</h2>                                 
                 <p>Tu aplicacion PHP esta siendo ejecutada usando GitHub, CodePipeline, CodeBuild, CodeDeploy, ECR y ECS-Fargate.</p>
                 <p>Meetup Julio 2019</p>
                 <br>
