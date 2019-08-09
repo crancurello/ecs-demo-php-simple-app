@@ -19,7 +19,7 @@
                 <h2>GRACIAS TOTALES</h2>                                              
                 <h2>AGOSTO</h2>                                              
                 <p>Tu aplicacion PHP esta siendo ejecutada usando GitHub, CodePipeline, CodeBuild, CodeDeploy, ECR y ECS-Fargate.</p>
-                <p>Meetup Julio 2019</p>
+                <p>CompuSoluciones CICD completito!! YEAAAAH</p>
                 <br>
                 <br>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
