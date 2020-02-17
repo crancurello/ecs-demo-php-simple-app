@@ -16,8 +16,8 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Aplicacion PHP con CI/CD</h1>
-                <h2>GRACIAS TOTALES</h2>                                              
-                <h2>AGOSTO</h2>                                              
+                <h2>Hola CompuSoluciones</h2>                                              
+                <h2>Febrero 2020</h2>                                              
                 <p>Tu aplicacion PHP esta siendo ejecutada usando GitHub, CodePipeline, CodeBuild, CodeDeploy, ECR y ECS-Fargate.</p>
                 <br>
                 <br>
