@@ -18,7 +18,7 @@
                 <h1>Aplicacion PHP con CI/CD</h1>                                          
                 <h2>¡Bienvenidos Amigos!</h2>                                                              
                 <h2>8 de octubreeeeeeeeeeee</h2>        
-                <h2>Hola OPENPAY!</h2>                        
+                <h2>Hola</h2>                        
                 <p>Tu aplicacion PHP esta siendo ejecutada usando GitHub, CodePipeline, CodeBuild, CodeDeploy, ECR y ECS-Fargate.</p>
                 <br>
                 <br>
