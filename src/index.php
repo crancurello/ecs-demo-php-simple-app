@@ -16,13 +16,12 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Aplicacion PHP con CI/CD</h1>                                          
-                <h2>¡Bienvenido Amigo Oscar Arcia!</h2>                                                              
-                <h2>8 de octubreeeeeeeeeeee</h2>        
-                <h2>Hola</h2>                        
-                <p>Tu aplicacion PHP esta siendo ejecutada usando GitHub, CodePipeline, CodeBuild, CodeDeploy, ECR y ECS-Fargate.</p>
+                <h2>¡Hola equipo AlphaCredit!</h2>                                                              
+                <h2>¿Cómo están?</h2>                               
+                <p>Este contanier hecho con PHP esta siendo ejecutado usando GitHub, CodePipeline, CodeBuild, CodeDeploy, ECR y ECS-Fargate.</p>
                 <br>
                 <br>
-                <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
+                <p>La versión de PHP es <?php echo phpversion(); ?>.</p>
                 <?php
                         $myfile = fopen("/var/www/my-vol/date", "r") or die("");
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
