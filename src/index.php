@@ -16,9 +16,9 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Aplicacion PHP con CI/CD</h1>                                          
-                <h2>¡Hola equipo AlphaCredit!</h2>                                                              
+                <h2>¡Hola equipo HSBC</h2>                                                              
                 <h2>¿Cómo están?</h2>                               
-                <p>Este contanier hecho con PHP esta siendo ejecutado usando GitHub, CodePipeline, CodeBuild, CodeDeploy, ECR y ECS-Fargate.</p>
+                <p>Este contanier hecho con PHP esta siendo ejecutado usando GitHub, CodePipeline, CodeBuild, CodeDeploy, ECR y ECS-Fargate con SPOT.</p>
                 <br>
                 <br>
                 <p>La versión de PHP es <?php echo phpversion(); ?>.</p>
