@@ -16,7 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Aplicacion PHP con CI/CD</h1>                                          
-                <h2>¡Hola GrupoSalinas</h2>                                                              
+                <h2>¡Hola GrupoSalinass</h2>                                                              
                 <h2>¿Cómo están?</h2>                               
                 <p>Este contanier hecho con PHP esta siendo ejecutado usando GitHub, CodePipeline, CodeBuild, CodeDeploy, ECR y ECS-Fargate.</p>
                 <br>
